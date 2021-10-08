@@ -1,0 +1,14 @@
+﻿Build started 10/8/2021 10:29:29 AM.
+     1>Project "C:\Users\thalibarrifqi\Documents\Visual Studio 2013\Projects\sertikom_2\Template_opencv\Template_opencv.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"x64\Debug\Template_opencv.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt line_detection.cpp
+         line_detection.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\thalibarrifqi\Documents\Visual Studio 2013\Projects\sertikom_2\x64\Debug\Template_opencv.exe" /INCREMENTAL /NOLOGO opencv_calib3d310d.lib opencv_core310d.lib opencv_features2d310d.lib opencv_flann310d.lib opencv_highgui310d.lib opencv_imgcodecs310d.lib opencv_imgproc310d.lib opencv_ml310d.lib opencv_objdetect310d.lib opencv_photo310d.lib opencv_shape310d.lib opencv_stitching310d.lib opencv_superres310d.lib opencv_ts310d.lib opencv_video310d.lib opencv_videoio310d.lib opencv_videostab310d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\thalibarrifqi\Documents\Visual Studio 2013\Projects\sertikom_2\x64\Debug\Template_opencv.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\thalibarrifqi\Documents\Visual Studio 2013\Projects\sertikom_2\x64\Debug\Template_opencv.lib" /MACHINE:X64 x64\Debug\line_detection.obj
+         x64\Debug\stdafx.obj
+         Template_opencv.vcxproj -> C:\Users\thalibarrifqi\Documents\Visual Studio 2013\Projects\sertikom_2\x64\Debug\Template_opencv.exe
+     1>Done Building Project "C:\Users\thalibarrifqi\Documents\Visual Studio 2013\Projects\sertikom_2\Template_opencv\Template_opencv.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.04
